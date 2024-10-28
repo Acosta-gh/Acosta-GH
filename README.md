@@ -26,7 +26,7 @@ Software developer with experience in web and desktop technologies.
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/cristian-acosta01]([https://www.linkedin.com/in/your-linkedi](https://linkedin.com/in/cristian-acosta01)n)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic)](https://linkedin.com/in/cristian-acosta01)
 
 
 
