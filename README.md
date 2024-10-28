@@ -4,8 +4,8 @@ Software developer with experience in web and desktop technologies.
 
 ## Technologies and Tools
 
-- **Languages:** Java, Python, PHP, JavaScript
-- **Frameworks and Libraries:** React, Express, Node.js, Bootstrap
+- **Languages:** ![Java](https://img.shields.io/badge/-Java-000000?logo=openjdk&logoColor=white&style=plastic) Python, PHP, JavaScript
+- **Frameworks and Libraries:** React, Express, Node.js, Bootstrap, Sequelize (ORM)
 - **Databases:** MySQL, SQLite, MariaDB
 - **Tools:** Git, Visual Studio Code, Postman
 - **Other:** HTML, CSS, SASS, JWT, REST APIs
