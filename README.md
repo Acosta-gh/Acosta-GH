@@ -22,6 +22,13 @@ Software developer with experience in web and desktop technologies.
 - 3D Modeling
 - Free and Open Source Software
 - Individual Freedom, Security and Privacy
+![Desktop Application Development](https://img.shields.io/badge/Desktop%20Application%20Development-007ACC?style=plastic&logo=windows&logoColor=white)
+![Video Game Development](https://img.shields.io/badge/Video%20Game%20Development-FF0000?style=plastic&logo=gamepad&logoColor=white)
+![Full Stack Development](https://img.shields.io/badge/Full%20Stack%20Development-4CAF50?style=plastic&logo=code&logoColor=white)
+![3D Modeling](https://img.shields.io/badge/3D%20Modeling-FF9800?style=plastic&logo=3d-rotation&logoColor=white)
+![Free and Open Source Software](https://img.shields.io/badge/FOSS-00BFFF?style=plastic&logo=github&logoColor=white)
+![Individual Freedom](https://img.shields.io/badge/Individual%20Freedom-FFD700?style=plastic&logo=lock&logoColor=white)
+![Security and Privacy](https://img.shields.io/badge/Security%20and%20Privacy-FF5722?style=plastic&logo=shield&logoColor=white)
 
 ## Contact
 
