@@ -1,6 +1,6 @@
 # Cristian Darío Acosta
 
-Software developer with experience in web and desktop technologies.
+"Junior Developer | MERN / LAMP / Java / Python | Passionate about open source and ready for new challenges"
 
 ## Technologies and Tools
 
