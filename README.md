@@ -1,6 +1,6 @@
 # Cristian Darío Acosta
 
-Junior Developer | MERN / LAMP / Java / Python | Passionate about open source and ready for new challenges
+Junior Developer | MERN / LAMP | Passionate about open source and ready for new challenges
 
 ## Technologies and Tools
 
