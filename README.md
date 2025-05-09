@@ -25,9 +25,6 @@ Junior Developer | MERN / LAMP | Passionate about open source and ready for new 
 ![Free and Open Source Software](https://img.shields.io/badge/FOSS-A42E2B?style=plastic&logo=gnu&logoColor=white)
 ![Security and Privacy](https://img.shields.io/badge/Security%20and%20Privacy-0093DD?style=plastic&logo=gnuprivacyguard&logoColor=white)
 
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=plastic)](https://linkedin.com/in/cristian-acosta01)
 
 
 
