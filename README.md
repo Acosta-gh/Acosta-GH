@@ -1,6 +1,6 @@
 # Cristian Darío Acosta
 
-Developer | MERN / LAMP | Passionate about open source and ready for new challenges
+Developer | PERN / LAMP | Passionate about open source and ready for new challenges
 
 ## Technologies and Tools
 
