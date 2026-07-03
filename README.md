@@ -24,8 +24,6 @@ Developer | Next.js / .NET | Passionate about open source and ready for new chal
 ## Areas of Interest
 
 ![Web Development](https://img.shields.io/badge/Web%20Development-000000?style=plastic&logo=next.js&logoColor=white)
-![Backend Development](https://img.shields.io/badge/Backend%20Development-512BD4?style=plastic&logo=dotnet&logoColor=white)
-![Database Design](https://img.shields.io/badge/Database%20Design-336791?style=plastic&logo=postgresql&logoColor=white)
 ![Desktop Application Development](https://img.shields.io/badge/Desktop%20Application%20Development-239120?style=plastic&logo=csharp&logoColor=white)
 ![Free and Open Source Software](https://img.shields.io/badge/FOSS-A42E2B?style=plastic&logo=gnu&logoColor=white)
 ![Security and Privacy](https://img.shields.io/badge/Security%20and%20Privacy-0093DD?style=plastic&logo=gnuprivacyguard&logoColor=white)
