@@ -19,7 +19,7 @@ Developer | Next.js / .NET | Passionate about open source and ready for new chal
 
 ## Recent Projects
 
-- Currently building applications focusing on scalable architectures and clean code.
+- Currently rebuilding my portfolio with production-ready projects focused on scalable architecture and clean, maintainable code, without relying on AI.
 
 ## Areas of Interest
 
