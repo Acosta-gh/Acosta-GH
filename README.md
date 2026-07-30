@@ -16,6 +16,7 @@ Developer | Next.js / .NET | Passionate about open source and ready for new chal
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=plastic)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
 ![Visual%20Studio%20Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
